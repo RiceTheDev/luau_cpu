@@ -6,7 +6,9 @@ Hi! This is a CPU inside of Roblox running pong.
 This is just a demo that me and my friends did, I probably won't update this, so if you decide to fork and reuse any code here, credits are apreciated!
 ## Demo
 
-(remember myself to insert a image here)
+<img width="508" height="265" alt="Screenshot_20260324_213132" src="https://github.com/user-attachments/assets/78b0911e-25d2-496f-87f2-b47783aa4494" />
+
+
 ## Running
 
 **The game is available to play in Roblox [here](https://www.roblox.com/pt/games/91875052604180/REAL-COMPUTER-ON-ROBLOX#!/about).**
